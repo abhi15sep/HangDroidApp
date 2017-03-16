@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/abhay/Pictures/Android_App/HangDroid/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fd26d4c29d1556ca80374e55fba4b604736260b9">
+        <dex dex="/home/abhay/Pictures/Android_App/HangDroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8fd44bf3d49228f87009ced6bc663e42285b2816/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abhay/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/home/abhay/Pictures/Android_App/HangDroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.0.0_3e64197b6481dbfc23d85ce7d5de0abdbacbdc10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abhay/.android/build-cache/e1523bf30087798da0b697d23e7f70bcfeaf97df/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/home/abhay/Pictures/Android_App/HangDroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_30750179a0b6cea7fbe345d07643264320d9530b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abhay/Pictures/Android_App/HangDroid/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/abhay/Pictures/Android_App/HangDroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_236cf93294c9b25232190b2bf3a46cd6ba7c3aed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abhay/.android/build-cache/27eee5c703d951015ee419875fc0355851a3e40f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/home/abhay/Pictures/Android_App/HangDroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b2d3d47fb13dca5be9e7fe97ad0d1560ad783b4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abhay/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/home/abhay/Pictures/Android_App/HangDroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.0.0_3e64197b6481dbfc23d85ce7d5de0abdbacbdc10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abhay/.android/build-cache/27eee5c703d951015ee419875fc0355851a3e40f/output/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/home/abhay/Pictures/Android_App/HangDroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.0.0_f4e02281f5eeb2de95661e24d8f6d75a5633d368/classes.dex" />
+    </item>
+
+</items>
